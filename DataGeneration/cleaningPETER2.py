@@ -3,11 +3,11 @@ import pathlib
 import re
 import json
 
-source = pathlib.Path(r"C:\Users\Nicholas\Downloads\misspelling\PETERS2DAT.643")
-outfile = pathlib.Path(r"C:\Users\Nicholas\Downloads\Training\PETER2.txt")
+source = pathlib.Path(r"path\to\PETERS2DAT.643")
+dir = pathlib.Path(os.getcwd())
+outfile = pathlib.Path(dir / "PETER2.txt")
+
 ### Contains multiple errors in sentences
-
-
 def forTraining(sentence, mistake, mistake_index, label):
     data = {"mistake": mistake.lower(), "label": label.lower()}
     sentence = [w.lower() for w in sentence]

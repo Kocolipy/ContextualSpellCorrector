@@ -1,0 +1,576 @@
+{"mistake": "enthuseastic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "laf", "label": "laugh", "sentence": "[CLS] i wanted to [MASK] but i had to pretend to like them [SEP]"}
+{"mistake": "proatry", "label": "poetry", "sentence": "[CLS] she wrote [MASK] [SEP]"}
+{"mistake": "ansoar", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "refrecment", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "itsef", "label": "itself", "sentence": "[CLS] and enlarges on [MASK] pure research is [SEP]"}
+{"mistake": "unparralleled", "label": "unparalleled", "sentence": "[CLS] she was of [MASK] beauty [SEP]"}
+{"mistake": "aprechly", "label": "appreciate", "sentence": "[CLS] i [MASK] your kindness [SEP]"}
+{"mistake": "beauterfull", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "aren", "label": "any", "sentence": "[CLS] are there [MASK] left [SEP]"}
+{"mistake": "dontf", "label": "definite", "sentence": "[CLS] he made a [MASK] promise [SEP]"}
+{"mistake": "uploperd", "label": "unemployed", "sentence": "[CLS] if you are aged 16-19 and [MASK] you should take advantage of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "taining", "label": "training", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take advantage of the special [MASK] schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "exibion", "label": "exhibition", "sentence": "[CLS] there was an [MASK] of work [SEP]"}
+{"mistake": "aer", "label": "are", "sentence": "[CLS] as you were not there last time we came , we [MASK] looking forward to seeing you again [SEP]"}
+{"mistake": "enee", "label": "any", "sentence": "[CLS] are there [MASK] left [SEP]"}
+{"mistake": "serplece", "label": "surplus", "sentence": "[CLS] these stocks are [MASK] [SEP]"}
+{"mistake": "fod", "label": "great", "sentence": "[CLS] it was a [MASK] big animal [SEP]"}
+{"mistake": "shau", "label": "sure", "sentence": "[CLS] i am [MASK] [SEP]"}
+{"mistake": "biscists", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "wemm", "label": "women", "sentence": "[CLS] the [MASK] stood and waited [SEP]"}
+{"mistake": "morrage", "label": "mortgage", "sentence": "[CLS] the man took out a [MASK] on the house [SEP]"}
+{"mistake": "magnifesant", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "apresaties", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "seples", "label": "surplus", "sentence": "[CLS] these stocks are [MASK] [SEP]"}
+{"mistake": "rehen", "label": "really", "sentence": "[CLS] however , i [MASK] like the special refreshment [SEP]"}
+{"mistake": "messalanious", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "adge", "label": "aged", "sentence": "[CLS] if you are [MASK] 16-19 and unemployed you should take advantage of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "misalnes", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "unproloud", "label": "unparalleled", "sentence": "[CLS] she was of [MASK] beauty [SEP]"}
+{"mistake": "unpoulyed", "label": "unemployed", "sentence": "[CLS] if you are aged 16-19 and [MASK] you should take advantage of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "formelya", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "cambrige", "label": "cambridge", "sentence": "[CLS] [MASK] colleges examinations general [SEP]"}
+{"mistake": "anthouseyastic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "enthniciatic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "recved", "label": "received", "sentence": "[CLS] i am not used to dining on so much , it must be admitted , but i had [MASK] a bonus that week and i wanted to celebrate [SEP]"}
+{"mistake": "eazily", "label": "easily", "sentence": "[CLS] the question very [MASK] becomes which would [SEP]"}
+{"mistake": "agen", "label": "again", "sentence": "[CLS] as you were not there last time we came , we are looking forward to seeing you [MASK] [SEP]"}
+{"mistake": "aquashment", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "researh", "label": "research", "sentence": "[CLS] scientists to do [MASK] in a field [SEP]"}
+{"mistake": "joos", "label": "juice", "sentence": "[CLS] there was blue [MASK] , cake and biscuits [SEP]"}
+{"mistake": "frewturnaly", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "exspidtion", "label": "exhibition", "sentence": "[CLS] there was an [MASK] of work [SEP]"}
+{"mistake": "thes", "label": "this", "sentence": "[CLS] simply found for [MASK] problem combined with [SEP]"}
+{"mistake": "gurrentee", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "exadyleyseady", "label": "ecstasy", "sentence": "[CLS] they danced with [MASK] [SEP]"}
+{"mistake": "indsrey", "label": "industry", "sentence": "[CLS] or you may prefer to work in community [MASK] [SEP]"}
+{"mistake": "laurght", "label": "laugh", "sentence": "[CLS] i wanted to [MASK] but i had to pretend to like them [SEP]"}
+{"mistake": "projent", "label": "project", "sentence": "[CLS] you can choose to work for an employer on the spot to get experience of a particular type of job or you can work on a special [MASK] [SEP]"}
+{"mistake": "warck", "label": "work", "sentence": "[CLS] there are also courses run to help you choose which kind of [MASK] suits you best and courses to train you for a particular job at operator or semi-skilled level [SEP]"}
+{"mistake": "permennam", "label": "permanent", "sentence": "[CLS] the road is [MASK] [SEP]"}
+{"mistake": "surnturnany", "label": "subterranean", "sentence": "[CLS] this is a [MASK] tunnel [SEP]"}
+{"mistake": "fraturnaly", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "whorter", "label": "walked", "sentence": "[CLS] yesterday i [MASK] over to their house to help arthur do some digging [SEP]"}
+{"mistake": "intele", "label": "intellect", "sentence": "[CLS] pursuit of individual [MASK] it must not [SEP]"}
+{"mistake": "subterainer", "label": "subterranean", "sentence": "[CLS] this is a [MASK] tunnel [SEP]"}
+{"mistake": "wemin", "label": "women", "sentence": "[CLS] the [MASK] stood and waited [SEP]"}
+{"mistake": "fieraid", "label": "friend", "sentence": "[CLS] he is my [MASK] [SEP]"}
+{"mistake": "aperaters", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "enefe", "label": "any", "sentence": "[CLS] are there [MASK] left [SEP]"}
+{"mistake": "cymitery", "label": "symmetry", "sentence": "[CLS] they admired the [MASK] of the vase [SEP]"}
+{"mistake": "cemetre", "label": "cemetery", "sentence": "[CLS] the [MASK] was cool and silent [SEP]"}
+{"mistake": "aperses", "label": "appreciate", "sentence": "[CLS] i [MASK] your kindness [SEP]"}
+{"mistake": "inaxacible", "label": "inaccessible", "sentence": "[CLS] the window was [MASK] [SEP]"}
+{"mistake": "explaratory", "label": "exploratory", "sentence": "[CLS] science is an [MASK] and imaginative process [SEP]"}
+{"mistake": "freatrunally", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "maneveit", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "wati", "label": "waiting", "sentence": "[CLS] similar to this [MASK] to be discovered [SEP]"}
+{"mistake": "auckoustr", "label": "orchestra", "sentence": "[CLS] the musicians played in an [MASK] [SEP]"}
+{"mistake": "harresed", "label": "harassed", "sentence": "[CLS] she was [MASK] by the crowd [SEP]"}
+{"mistake": "aparates", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "bikugut", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "extace", "label": "ecstasy", "sentence": "[CLS] they danced with [MASK] [SEP]"}
+{"mistake": "exjarit", "label": "exaggerate", "sentence": "[CLS] do not [MASK] your claim [SEP]"}
+{"mistake": "convelence", "label": "convalescence", "sentence": "[CLS] the invalid's [MASK] proceeded smoothly [SEP]"}
+{"mistake": "equipte", "label": "equipped", "sentence": "[CLS] the camp was well [MASK] [SEP]"}
+{"mistake": "veam", "label": "van", "sentence": "[CLS] the furniture came in a [MASK] [SEP]"}
+{"mistake": "figth", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "amswer", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "probablly", "label": "probably", "sentence": "[CLS] round the corner [MASK] still wouldnt bother [SEP]"}
+{"mistake": "exibition", "label": "exhibition", "sentence": "[CLS] there was an [MASK] of work [SEP]"}
+{"mistake": "fretunaly", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "freternely", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "hahlhelf", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "freght", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "haiw", "label": "here", "sentence": "[CLS] put it [MASK] [SEP]"}
+{"mistake": "nessbell", "label": "noticeable", "sentence": "[CLS] in fact his progress was hardly [MASK] [SEP]"}
+{"mistake": "saccrilligous", "label": "sacrilegious", "sentence": "[CLS] it is [MASK] to eat crisps in church [SEP]"}
+{"mistake": "stuma", "label": "stomach", "sentence": "[CLS] when i left , my [MASK] was full and i was happy and contented [SEP]"}
+{"mistake": "communcate", "label": "communicate", "sentence": "[CLS] satellite will the [MASK] by radio waves [SEP]"}
+{"mistake": "shorch", "label": "sure", "sentence": "[CLS] i am [MASK] [SEP]"}
+{"mistake": "serficant", "label": "sufficient", "sentence": "[CLS] the food is [MASK] [SEP]"}
+{"mistake": "quarentte", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "fameliar", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "refreshmet", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "missilaneus", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "quuly", "label": "equally", "sentence": "[CLS] they shared the sweets [MASK] [SEP]"}
+{"mistake": "eefrsment", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "pretened", "label": "pretend", "sentence": "[CLS] i wanted to laugh but i had to [MASK] to like them [SEP]"}
+{"mistake": "ploytision", "label": "politician", "sentence": "[CLS] the [MASK] spoke with ease [SEP]"}
+{"mistake": "refruesment", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "anseres", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "secondery", "label": "secondary", "sentence": "[CLS] presumed to be [MASK] to thes more [SEP]"}
+{"mistake": "fretanailly", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "interper", "label": "interpretations", "sentence": "[CLS] whatever the different [MASK] that may be [SEP]"}
+{"mistake": "carley", "label": "gallery", "sentence": "[CLS] she lived in a magnificent house opposite the [MASK] [SEP]"}
+{"mistake": "opisitt", "label": "opposite", "sentence": "[CLS] she lived in a magnificent house [MASK] the gallery [SEP]"}
+{"mistake": "presuposes", "label": "presupposes", "sentence": "[CLS] the question how [MASK] an answer and [SEP]"}
+{"mistake": "definet", "label": "definite", "sentence": "[CLS] he made a [MASK] promise [SEP]"}
+{"mistake": "chac", "label": "chance", "sentence": "[CLS] turn down the [MASK] to save some [SEP]"}
+{"mistake": "jobsenter", "label": "jobcentre", "sentence": "[CLS] enquire at your local [MASK] about the different schemes available [SEP]"}
+{"mistake": "specsie", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "ansier", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "garlell", "label": "gallery", "sentence": "[CLS] she lived in a magnificent house opposite the [MASK] [SEP]"}
+{"mistake": "suppless", "label": "surplus", "sentence": "[CLS] these stocks are [MASK] [SEP]"}
+{"mistake": "contenten", "label": "contented", "sentence": "[CLS] when i left , my stomach was full and i was happy and [MASK] [SEP]"}
+{"mistake": "wonen", "label": "women", "sentence": "[CLS] the [MASK] stood and waited [SEP]"}
+{"mistake": "rememmber", "label": "remember", "sentence": "[CLS] i [MASK] her splendid purple curtains [SEP]"}
+{"mistake": "aggreement", "label": "agreement", "sentence": "[CLS] signed such an [MASK] this alternative implies [SEP]"}
+{"mistake": "flen", "label": "thin", "sentence": "[CLS] the man was tall and [MASK] [SEP]"}
+{"mistake": "aercraft", "label": "aircraft", "sentence": "[CLS] trains boats and [MASK] we must also [SEP]"}
+{"mistake": "engauge", "label": "engage", "sentence": "[CLS] gears will not [MASK] unless the seat [SEP]"}
+{"mistake": "equifly", "label": "equally", "sentence": "[CLS] they shared the sweets [MASK] [SEP]"}
+{"mistake": "defernet", "label": "definite", "sentence": "[CLS] he made a [MASK] promise [SEP]"}
+{"mistake": "opreraytor", "label": "operator", "sentence": "[CLS] there are also courses run to help you choose which kind of work suits you best and courses to train you for a particular job at [MASK] or semi-skilled level [SEP]"}
+{"mistake": "rery", "label": "really", "sentence": "[CLS] however , i [MASK] like the special refreshment [SEP]"}
+{"mistake": "anutacice", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "mealanis", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "michellanos", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "forcasts", "label": "forecasts", "sentence": "[CLS] to totally different [MASK] anyway if they [SEP]"}
+{"mistake": "custurdmony", "label": "customary", "sentence": "[CLS] it is [MASK] to shake hands [SEP]"}
+{"mistake": "addmeted", "label": "admitted", "sentence": "[CLS] i am not used to dining on so much , it must be [MASK] , but i had received a bonus that week and i wanted to celebrate [SEP]"}
+{"mistake": "meningitidis", "label": "meningitis", "sentence": "[CLS] my 31 yr old daughter who has c7 she had [MASK] twice when she was 14 yrs @17 she made a full recovery she is now 4 mts pregnant any advice for us please rita [SEP]"}
+{"mistake": "cend", "label": "kind", "sentence": "[CLS] there are also courses run to help you choose which [MASK] of work suits you best and courses to train you for a particular job at operator or semi-skilled level [SEP]"}
+{"mistake": "dound", "label": "done", "sentence": "[CLS] what have you [MASK] [SEP]"}
+{"mistake": "berath", "label": "breathe", "sentence": "[CLS] fresh air is good to [MASK] [SEP]"}
+{"mistake": "curnterns", "label": "curtains", "sentence": "[CLS] i remember her splendid purple [MASK] [SEP]"}
+{"mistake": "bicters", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "reacmer", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "uninepould", "label": "unemployed", "sentence": "[CLS] if you are aged 16-19 and [MASK] you should take advantage of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "speial", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "dont", "label": "done", "sentence": "[CLS] what have you [MASK] [SEP]"}
+{"mistake": "magnifisent", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "bief", "label": "breathe", "sentence": "[CLS] fresh air is good to [MASK] [SEP]"}
+{"mistake": "cimetry", "label": "symmetry", "sentence": "[CLS] they admired the [MASK] of the vase [SEP]"}
+{"mistake": "recquired", "label": "required", "sentence": "[CLS] amount of knowledge [MASK] to be absorbed [SEP]"}
+{"mistake": "beciskes", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "sende", "label": "suits", "sentence": "[CLS] there are also courses run to help you choose which kind of work [MASK] you best and courses to train you for a particular job at operator or semi-skilled level [SEP]"}
+{"mistake": "offerred", "label": "offered", "sentence": "[CLS] easier solution were [MASK] the comments offered [SEP]"}
+{"mistake": "egwly", "label": "equally", "sentence": "[CLS] they shared the sweets [MASK] [SEP]"}
+{"mistake": "vist", "label": "visited", "sentence": "[CLS] i often [MASK] my aunt [SEP]"}
+{"mistake": "poery", "label": "poetry", "sentence": "[CLS] she wrote [MASK] [SEP]"}
+{"mistake": "ocestra", "label": "orchestra", "sentence": "[CLS] the musicians played in an [MASK] [SEP]"}
+{"mistake": "aunser", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "vistited", "label": "visited", "sentence": "[CLS] i often [MASK] my aunt [SEP]"}
+{"mistake": "fhint", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "suficent", "label": "sufficient", "sentence": "[CLS] the food is [MASK] [SEP]"}
+{"mistake": "lauf", "label": "laugh", "sentence": "[CLS] i wanted to [MASK] but i had to pretend to like them [SEP]"}
+{"mistake": "preteneded", "label": "pretend", "sentence": "[CLS] i wanted to laugh but i had to [MASK] to like them [SEP]"}
+{"mistake": "intitate", "label": "initiate", "sentence": "[CLS] and not actually [MASK] it its ability [SEP]"}
+{"mistake": "hafe", "label": "half", "sentence": "[CLS] i was a bit late because i had been cooking myself [MASK] a pound of steak and various vegetables , including fried potatoes [SEP]"}
+{"mistake": "perpel", "label": "purple", "sentence": "[CLS] i remember her splendid [MASK] curtains [SEP]"}
+{"mistake": "apartanes", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "shur", "label": "sure", "sentence": "[CLS] i am [MASK] [SEP]"}
+{"mistake": "symetery", "label": "symmetry", "sentence": "[CLS] they admired the [MASK] of the vase [SEP]"}
+{"mistake": "acistra", "label": "orchestra", "sentence": "[CLS] the musicians played in an [MASK] [SEP]"}
+{"mistake": "unacsesible", "label": "inaccessible", "sentence": "[CLS] the window was [MASK] [SEP]"}
+{"mistake": "indivual", "label": "individual", "sentence": "[CLS] study thus while [MASK] work was encouraged [SEP]"}
+{"mistake": "slomac", "label": "stomach", "sentence": "[CLS] when i left , my [MASK] was full and i was happy and contented [SEP]"}
+{"mistake": "wowman", "label": "women", "sentence": "[CLS] the [MASK] stood and waited [SEP]"}
+{"mistake": "cematary", "label": "cemetery", "sentence": "[CLS] the [MASK] was cool and silent [SEP]"}
+{"mistake": "sleadet", "label": "splendid", "sentence": "[CLS] i remember her [MASK] purple curtains [SEP]"}
+{"mistake": "familly", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "accessable", "label": "accessible", "sentence": "[CLS] is it economically [MASK] we know that [SEP]"}
+{"mistake": "fowm", "label": "form", "sentence": "[CLS] what [MASK] are you in [SEP]"}
+{"mistake": "especsily", "label": "especially", "sentence": "[CLS] this is [MASK] for you [SEP]"}
+{"mistake": "guartee", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "politishon", "label": "politician", "sentence": "[CLS] the [MASK] spoke with ease [SEP]"}
+{"mistake": "probelum", "label": "problem", "sentence": "[CLS] the [MASK] was nobody could understand it [SEP]"}
+{"mistake": "rflash", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "perfer", "label": "prefer", "sentence": "[CLS] or you may [MASK] to work in community industry [SEP]"}
+{"mistake": "magnipasint", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "aratie", "label": "advantage", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take [MASK] of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "pretennd", "label": "pretend", "sentence": "[CLS] i wanted to laugh but i had to [MASK] to like them [SEP]"}
+{"mistake": "catan", "label": "curtains", "sentence": "[CLS] i remember her splendid purple [MASK] [SEP]"}
+{"mistake": "cartians", "label": "curtains", "sentence": "[CLS] i remember her splendid purple [MASK] [SEP]"}
+{"mistake": "agin", "label": "again", "sentence": "[CLS] as you were not there last time we came , we are looking forward to seeing you [MASK] [SEP]"}
+{"mistake": "cemerty", "label": "cemetery", "sentence": "[CLS] the [MASK] was cool and silent [SEP]"}
+{"mistake": "equlk", "label": "equally", "sentence": "[CLS] they shared the sweets [MASK] [SEP]"}
+{"mistake": "vite", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "lannes", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "freand", "label": "friend", "sentence": "[CLS] he is my [MASK] [SEP]"}
+{"mistake": "leval", "label": "level", "sentence": "[CLS] pedal on the [MASK] [SEP]"}
+{"mistake": "suparanyan", "label": "subterranean", "sentence": "[CLS] this is a [MASK] tunnel [SEP]"}
+{"mistake": "howr", "label": "our", "sentence": "[CLS] we will be coming to leeds on sunday with [MASK] two sons [SEP]"}
+{"mistake": "advanched", "label": "advantage", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take [MASK] of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "feseastic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "convalecent", "label": "convalescence", "sentence": "[CLS] the invalid's [MASK] proceeded smoothly [SEP]"}
+{"mistake": "fint", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "specle", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "poptery", "label": "poetry", "sentence": "[CLS] she wrote [MASK] [SEP]"}
+{"mistake": "refreashent", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "eate", "label": "here", "sentence": "[CLS] put it [MASK] [SEP]"}
+{"mistake": "juise", "label": "juice", "sentence": "[CLS] there was blue [MASK] , cake and biscuits [SEP]"}
+{"mistake": "magnifecint", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "vereses", "label": "various", "sentence": "[CLS] i was a bit late because i had been cooking myself half a pound of steak and [MASK] vegetables , including fried potatoes [SEP]"}
+{"mistake": "spicale", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "wie", "label": "thin", "sentence": "[CLS] the man was tall and [MASK] [SEP]"}
+{"mistake": "projet", "label": "project", "sentence": "[CLS] you can choose to work for an employer on the spot to get experience of a particular type of job or you can work on a special [MASK] [SEP]"}
+{"mistake": "diffu", "label": "difficulties", "sentence": "[CLS] were enforced then [MASK] [SEP]"}
+{"mistake": "unee", "label": "unemployment", "sentence": "[CLS] who are claiming [MASK] benefits and see [SEP]"}
+{"mistake": "aspechaly", "label": "especially", "sentence": "[CLS] this is [MASK] for you [SEP]"}
+{"mistake": "fiyer", "label": "fire", "sentence": "[CLS] light the [MASK] [SEP]"}
+{"mistake": "proplme", "label": "problem", "sentence": "[CLS] the [MASK] was nobody could understand it [SEP]"}
+{"mistake": "refremit", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "gaige", "label": "gauge", "sentence": "[CLS] the petrol [MASK] was faulty [SEP]"}
+{"mistake": "hiyr", "label": "here", "sentence": "[CLS] put it [MASK] [SEP]"}
+{"mistake": "rae", "label": "are", "sentence": "[CLS] as you were not there last time we came , we [MASK] looking forward to seeing you again [SEP]"}
+{"mistake": "garatee", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "magniefecent", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "liet", "label": "here", "sentence": "[CLS] put it [MASK] [SEP]"}
+{"mistake": "beatifull", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "butfle", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "thun", "label": "done", "sentence": "[CLS] what have you [MASK] [SEP]"}
+{"mistake": "answrs", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "convolesense", "label": "convalescence", "sentence": "[CLS] the invalid's [MASK] proceeded smoothly [SEP]"}
+{"mistake": "pothatree", "label": "poetry", "sentence": "[CLS] she wrote [MASK] [SEP]"}
+{"mistake": "frined", "label": "friend", "sentence": "[CLS] he is my [MASK] [SEP]"}
+{"mistake": "incorporatd", "label": "incorporated", "sentence": "[CLS] the technological device [MASK] in ones car [SEP]"}
+{"mistake": "ocrtur", "label": "orchestra", "sentence": "[CLS] the musicians played in an [MASK] [SEP]"}
+{"mistake": "aperats", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "bickit", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "kooking", "label": "cooking", "sentence": "[CLS] i was a bit late because i had been [MASK] myself half a pound of steak and various vegetables , including fried potatoes [SEP]"}
+{"mistake": "materley", "label": "materially", "sentence": "[CLS] it is not [MASK] different [SEP]"}
+{"mistake": "eqiept", "label": "equipped", "sentence": "[CLS] the camp was well [MASK] [SEP]"}
+{"mistake": "slended", "label": "splendid", "sentence": "[CLS] i remember her [MASK] purple curtains [SEP]"}
+{"mistake": "beggining", "label": "beginning", "sentence": "[CLS] energy in the [MASK] this source of [SEP]"}
+{"mistake": "ener", "label": "any", "sentence": "[CLS] are there [MASK] left [SEP]"}
+{"mistake": "expeirence", "label": "experience", "sentence": "[CLS] you can choose to work for an employer on the spot to get [MASK] of a particular type of job or you can work on a special project [SEP]"}
+{"mistake": "ferternaly", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "latust", "label": "latest", "sentence": "[CLS] her [MASK] poems had words like prunty , slimber , grondel , blomp [SEP]"}
+{"mistake": "gerenttee", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "magnifecent", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "refrshment", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "spelse", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "buble", "label": "bubble", "sentence": "[CLS] to form a [MASK] deep below the [SEP]"}
+{"mistake": "exibitition", "label": "exhibition", "sentence": "[CLS] there was an [MASK] of work [SEP]"}
+{"mistake": "polititon", "label": "politician", "sentence": "[CLS] the [MASK] spoke with ease [SEP]"}
+{"mistake": "empoymen", "label": "employment", "sentence": "[CLS] [MASK] office [SEP]"}
+{"mistake": "levele", "label": "level", "sentence": "[CLS] there are also courses run to help you choose which kind of work suits you best and courses to train you for a particular job at operator or semi-skilled [MASK] [SEP]"}
+{"mistake": "stancaine", "label": "station", "sentence": "[CLS] my friends , joan and arthur live near the [MASK] [SEP]"}
+{"mistake": "sinicature", "label": "signature", "sentence": "[CLS] he wrote his [MASK] [SEP]"}
+{"mistake": "fimilyar", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "cemetray", "label": "cemetery", "sentence": "[CLS] the [MASK] was cool and silent [SEP]"}
+{"mistake": "luagfde", "label": "laugh", "sentence": "[CLS] i wanted to [MASK] but i had to pretend to like them [SEP]"}
+{"mistake": "ungertly", "label": "urgently", "sentence": "[CLS] the fields most [MASK] required eg medical [SEP]"}
+{"mistake": "lattles", "label": "latest", "sentence": "[CLS] her [MASK] poems had words like prunty , slimber , grondel , blomp [SEP]"}
+{"mistake": "fuit", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "harsted", "label": "harassed", "sentence": "[CLS] she was [MASK] by the crowd [SEP]"}
+{"mistake": "impractia", "label": "impractical", "sentence": "[CLS] it should prove [MASK] and solar wind [SEP]"}
+{"mistake": "bese", "label": "beside", "sentence": "[CLS] man stood proudly [MASK] his best machine [SEP]"}
+{"mistake": "miscalans", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "whented", "label": "wanted", "sentence": "[CLS] i [MASK] to laugh but i had to pretend to like them [SEP]"}
+{"mistake": "stomouc", "label": "stomach", "sentence": "[CLS] when i left , my [MASK] was full and i was happy and contented [SEP]"}
+{"mistake": "youself", "label": "yourself", "sentence": "[CLS] head youll find [MASK] now time no [SEP]"}
+{"mistake": "inlargement", "label": "enlargement", "sentence": "[CLS] street as an [MASK] of human knowledge [SEP]"}
+{"mistake": "perticular", "label": "particular", "sentence": "[CLS] there are also courses run to help you choose which kind of work suits you best and courses to train you for a [MASK] job at operator or semi-skilled level [SEP]"}
+{"mistake": "fermiller", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "relingushed", "label": "relinquished", "sentence": "[CLS] owner would be [MASK] of the choice [SEP]"}
+{"mistake": "equitly", "label": "equally", "sentence": "[CLS] they shared the sweets [MASK] [SEP]"}
+{"mistake": "biutefell", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "diaramatically", "label": "diagramatically", "sentence": "[CLS] same direction ie [MASK] this means that [SEP]"}
+{"mistake": "forcasting", "label": "forecasting", "sentence": "[CLS] many ways from [MASK] the weather to [SEP]"}
+{"mistake": "oppest", "label": "opposite", "sentence": "[CLS] she lived in a magnificent house [MASK] the gallery [SEP]"}
+{"mistake": "potititoin", "label": "politician", "sentence": "[CLS] the [MASK] spoke with ease [SEP]"}
+{"mistake": "ptylas", "label": "particular", "sentence": "[CLS] you can choose to work for an employer on the spot to get experience of a [MASK] type of job or you can work on a special project [SEP]"}
+{"mistake": "equpet", "label": "equipped", "sentence": "[CLS] the camp was well [MASK] [SEP]"}
+{"mistake": "curtens", "label": "curtains", "sentence": "[CLS] i remember her splendid purple [MASK] [SEP]"}
+{"mistake": "souces", "label": "sources", "sentence": "[CLS] the major energy [MASK] would have three [SEP]"}
+{"mistake": "frou", "label": "for", "sentence": "[CLS] it is not [MASK] me [SEP]"}
+{"mistake": "rien", "label": "fire", "sentence": "[CLS] light the [MASK] [SEP]"}
+{"mistake": "sdaseare", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "fimily", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "magnifiscant", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "occuring", "label": "occurring", "sentence": "[CLS] can detect changes [MASK] in the upper [SEP]"}
+{"mistake": "semesceld", "label": "semi-skilled", "sentence": "[CLS] there are also courses run to help you choose which kind of work suits you best and courses to train you for a particular job at operator or [MASK] level [SEP]"}
+{"mistake": "jua", "label": "jam", "sentence": "[CLS] do you like sandwiches made of [MASK] [SEP]"}
+{"mistake": "wiem", "label": "women", "sentence": "[CLS] the [MASK] stood and waited [SEP]"}
+{"mistake": "prtend", "label": "pretend", "sentence": "[CLS] i wanted to laugh but i had to [MASK] to like them [SEP]"}
+{"mistake": "nocithisbord", "label": "noticeable", "sentence": "[CLS] in fact his progress was hardly [MASK] [SEP]"}
+{"mistake": "guarrentee", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "splenden", "label": "splendid", "sentence": "[CLS] i remember her [MASK] purple curtains [SEP]"}
+{"mistake": "fird", "label": "fire", "sentence": "[CLS] light the [MASK] [SEP]"}
+{"mistake": "bicut", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "opoist", "label": "opposite", "sentence": "[CLS] she lived in a magnificent house [MASK] the gallery [SEP]"}
+{"mistake": "ammount", "label": "amount", "sentence": "[CLS] do that great [MASK] of work there [SEP]"}
+{"mistake": "epreciate", "label": "appreciate", "sentence": "[CLS] i [MASK] your kindness [SEP]"}
+{"mistake": "sacriligeous", "label": "sacrilegious", "sentence": "[CLS] it is [MASK] to eat crisps in church [SEP]"}
+{"mistake": "perver", "label": "prefer", "sentence": "[CLS] or you may [MASK] to work in community industry [SEP]"}
+{"mistake": "pilicy", "label": "policy", "sentence": "[CLS] enforce such a [MASK] it would require [SEP]"}
+{"mistake": "secreligous", "label": "sacrilegious", "sentence": "[CLS] it is [MASK] to eat crisps in church [SEP]"}
+{"mistake": "enar", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "worre", "label": "worries", "sentence": "[CLS] have no material [MASK] the thinkers needs [SEP]"}
+{"mistake": "clak", "label": "cake", "sentence": "[CLS] there was blue juice , [MASK] and biscuits [SEP]"}
+{"mistake": "subtranen", "label": "subterranean", "sentence": "[CLS] this is a [MASK] tunnel [SEP]"}
+{"mistake": "governemt", "label": "government", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take advantage of the special training schemes run by the [MASK] for unemployed young people [SEP]"}
+{"mistake": "partqulr", "label": "particular", "sentence": "[CLS] you can choose to work for an employer on the spot to get experience of a [MASK] type of job or you can work on a special project [SEP]"}
+{"mistake": "cemitary", "label": "symmetry", "sentence": "[CLS] they admired the [MASK] of the vase [SEP]"}
+{"mistake": "poemas", "label": "poems", "sentence": "[CLS] her latest [MASK] had words like prunty , slimber , grondel , blomp [SEP]"}
+{"mistake": "siniture", "label": "signature", "sentence": "[CLS] he wrote his [MASK] [SEP]"}
+{"mistake": "rifreshment", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "contende", "label": "contented", "sentence": "[CLS] when i left , my stomach was full and i was happy and [MASK] [SEP]"}
+{"mistake": "morgase", "label": "mortgage", "sentence": "[CLS] the man took out a [MASK] on the house [SEP]"}
+{"mistake": "awrsen", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "veryes", "label": "various", "sentence": "[CLS] i was a bit late because i had been cooking myself half a pound of steak and [MASK] vegetables , including fried potatoes [SEP]"}
+{"mistake": "fmely", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "warkd", "label": "walked", "sentence": "[CLS] yesterday i [MASK] over to their house to help arthur do some digging [SEP]"}
+{"mistake": "thise", "label": "there", "sentence": "[CLS] as you were not [MASK] last time we came , we are looking forward to seeing you again [SEP]"}
+{"mistake": "amout", "label": "amount", "sentence": "[CLS] increase in the [MASK] of organised factual [SEP]"}
+{"mistake": "spie", "label": "special", "sentence": "[CLS] you can choose to work for an employer on the spot to get experience of a particular type of job or you can work on a [MASK] project [SEP]"}
+{"mistake": "convalessents", "label": "convalescence", "sentence": "[CLS] the invalid's [MASK] proceeded smoothly [SEP]"}
+{"mistake": "firght", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "beuful", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "jale", "label": "gallery", "sentence": "[CLS] she lived in a magnificent house opposite the [MASK] [SEP]"}
+{"mistake": "lieshure", "label": "leisure", "sentence": "[CLS] his [MASK] was spent in the garden [SEP]"}
+{"mistake": "undistand", "label": "understand", "sentence": "[CLS] the problem was nobody could [MASK] it [SEP]"}
+{"mistake": "annother", "label": "another", "sentence": "[CLS] force with yet [MASK] difficult and unpleasant [SEP]"}
+{"mistake": "ecxadurate", "label": "exaggerate", "sentence": "[CLS] do not [MASK] your claim [SEP]"}
+{"mistake": "rmilen", "label": "admitted", "sentence": "[CLS] i am not used to dining on so much , it must be [MASK] , but i had received a bonus that week and i wanted to celebrate [SEP]"}
+{"mistake": "aperashis", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "flner", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "exsagurate", "label": "exaggerate", "sentence": "[CLS] do not [MASK] your claim [SEP]"}
+{"mistake": "umbempoy", "label": "unemployed", "sentence": "[CLS] if you are aged 16-19 and [MASK] you should take advantage of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "sacugliction", "label": "sacrilegious", "sentence": "[CLS] it is [MASK] to eat crisps in church [SEP]"}
+{"mistake": "gante", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "apraues", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "furthermoo", "label": "furthermore", "sentence": "[CLS] [MASK] it would be [SEP]"}
+{"mistake": "garrde", "label": "gallery", "sentence": "[CLS] she lived in a magnificent house opposite the [MASK] [SEP]"}
+{"mistake": "repemt", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "oppiset", "label": "opposite", "sentence": "[CLS] she lived in a magnificent house [MASK] the gallery [SEP]"}
+{"mistake": "gallerey", "label": "gallery", "sentence": "[CLS] she lived in a magnificent house opposite the [MASK] [SEP]"}
+{"mistake": "unployed", "label": "unemployed", "sentence": "[CLS] if you are aged 16-19 and [MASK] you should take advantage of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "powtrey", "label": "poetry", "sentence": "[CLS] she wrote [MASK] [SEP]"}
+{"mistake": "plon", "label": "plan", "sentence": "[CLS] i have a good [MASK] [SEP]"}
+{"mistake": "vesertid", "label": "visited", "sentence": "[CLS] i often [MASK] my aunt [SEP]"}
+{"mistake": "sbesll", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "latist", "label": "latest", "sentence": "[CLS] her [MASK] poems had words like prunty , slimber , grondel , blomp [SEP]"}
+{"mistake": "paturnelly", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "exagrate", "label": "exaggerate", "sentence": "[CLS] do not [MASK] your claim [SEP]"}
+{"mistake": "morgig", "label": "mortgage", "sentence": "[CLS] the man took out a [MASK] on the house [SEP]"}
+{"mistake": "tumer", "label": "stomach", "sentence": "[CLS] when i left , my [MASK] was full and i was happy and contented [SEP]"}
+{"mistake": "advatige", "label": "advantage", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take [MASK] of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "stumache", "label": "stomach", "sentence": "[CLS] when i left , my [MASK] was full and i was happy and contented [SEP]"}
+{"mistake": "conerlessons", "label": "convalescence", "sentence": "[CLS] the invalid's [MASK] proceeded smoothly [SEP]"}
+{"mistake": "birfull", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "remedr", "label": "remember", "sentence": "[CLS] i [MASK] her splendid purple curtains [SEP]"}
+{"mistake": "firy", "label": "fire", "sentence": "[CLS] light the [MASK] [SEP]"}
+{"mistake": "phretend", "label": "pretend", "sentence": "[CLS] i wanted to laugh but i had to [MASK] to like them [SEP]"}
+{"mistake": "sarcaligus", "label": "sacrilegious", "sentence": "[CLS] it is [MASK] to eat crisps in church [SEP]"}
+{"mistake": "doatg", "label": "dart", "sentence": "[CLS] the boy threw a [MASK] [SEP]"}
+{"mistake": "frends", "label": "friends", "sentence": "[CLS] my [MASK] , joan and arthur live near the station [SEP]"}
+{"mistake": "sufficuint", "label": "sufficient", "sentence": "[CLS] the food is [MASK] [SEP]"}
+{"mistake": "wsr", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "recevs", "label": "received", "sentence": "[CLS] i am not used to dining on so much , it must be admitted , but i had [MASK] a bonus that week and i wanted to celebrate [SEP]"}
+{"mistake": "exibison", "label": "exhibition", "sentence": "[CLS] there was an [MASK] of work [SEP]"}
+{"mistake": "diffrent", "label": "different", "sentence": "[CLS] enquire at your local jobcentre about the [MASK] schemes available [SEP]"}
+{"mistake": "undessand", "label": "understand", "sentence": "[CLS] the problem was nobody could [MASK] it [SEP]"}
+{"mistake": "matearilly", "label": "materially", "sentence": "[CLS] it is not [MASK] different [SEP]"}
+{"mistake": "communtey", "label": "community", "sentence": "[CLS] or you may prefer to work in [MASK] industry [SEP]"}
+{"mistake": "magniseft", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "leasar", "label": "leisure", "sentence": "[CLS] his [MASK] was spent in the garden [SEP]"}
+{"mistake": "seme", "label": "seem", "sentence": "[CLS] it does not [MASK] like winter [SEP]"}
+{"mistake": "inqeneire", "label": "enquire", "sentence": "[CLS] [MASK] at your local jobcentre about the different schemes available [SEP]"}
+{"mistake": "sussfull", "label": "successful", "sentence": "[CLS] the boy was [MASK] [SEP]"}
+{"mistake": "abraters", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "apprechate", "label": "appreciate", "sentence": "[CLS] i [MASK] your kindness [SEP]"}
+{"mistake": "wimn", "label": "women", "sentence": "[CLS] the [MASK] stood and waited [SEP]"}
+{"mistake": "othten", "label": "often", "sentence": "[CLS] i [MASK] visited my aunt [SEP]"}
+{"mistake": "garennte", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "genuinly", "label": "genuinely", "sentence": "[CLS] the person who [MASK] wanted to wear [SEP]"}
+{"mistake": "hanser", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "rememer", "label": "remember", "sentence": "[CLS] i [MASK] her splendid purple curtains [SEP]"}
+{"mistake": "bettes", "label": "best", "sentence": "[CLS] [MASK] wishes [SEP]"}
+{"mistake": "guic", "label": "juice", "sentence": "[CLS] there was blue [MASK] , cake and biscuits [SEP]"}
+{"mistake": "notiesbale", "label": "noticeable", "sentence": "[CLS] in fact his progress was hardly [MASK] [SEP]"}
+{"mistake": "equipted", "label": "equipped", "sentence": "[CLS] the camp was well [MASK] [SEP]"}
+{"mistake": "benefites", "label": "benefits", "sentence": "[CLS] science brings immediate [MASK] in comparison with [SEP]"}
+{"mistake": "severly", "label": "severely", "sentence": "[CLS] required would be [MASK] changed by the [SEP]"}
+{"mistake": "reveaed", "label": "received", "sentence": "[CLS] i am not used to dining on so much , it must be admitted , but i had [MASK] a bonus that week and i wanted to celebrate [SEP]"}
+{"mistake": "equept", "label": "equipped", "sentence": "[CLS] the camp was well [MASK] [SEP]"}
+{"mistake": "loast", "label": "lost", "sentence": "[CLS] the dog was [MASK] [SEP]"}
+{"mistake": "micilanious", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "iskpesers", "label": "experience", "sentence": "[CLS] you can choose to work for an employer on the spot to get [MASK] of a particular type of job or you can work on a special project [SEP]"}
+{"mistake": "suh", "label": "such", "sentence": "[CLS] are other possibilities [MASK] as technological devices [SEP]"}
+{"mistake": "spiecel", "label": "special", "sentence": "[CLS] you can choose to work for an employer on the spot to get experience of a particular type of job or you can work on a [MASK] project [SEP]"}
+{"mistake": "staeing", "label": "station", "sentence": "[CLS] my friends , joan and arthur live near the [MASK] [SEP]"}
+{"mistake": "serficent", "label": "sufficient", "sentence": "[CLS] the food is [MASK] [SEP]"}
+{"mistake": "ultimatel", "label": "ultimate", "sentence": "[CLS] now before the [MASK] drying up of [SEP]"}
+{"mistake": "fraternerly", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "natrual", "label": "natural", "sentence": "[CLS] would die a [MASK] death but what [SEP]"}
+{"mistake": "convential", "label": "conventional", "sentence": "[CLS] a common and [MASK] method for achieving [SEP]"}
+{"mistake": "sackuladus", "label": "sacrilegious", "sentence": "[CLS] it is [MASK] to eat crisps in church [SEP]"}
+{"mistake": "guos", "label": "juice", "sentence": "[CLS] there was blue [MASK] , cake and biscuits [SEP]"}
+{"mistake": "refesmut", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "ansow", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "aquire", "label": "acquire", "sentence": "[CLS] can no longer [MASK] all this knowledge [SEP]"}
+{"mistake": "simertry", "label": "symmetry", "sentence": "[CLS] they admired the [MASK] of the vase [SEP]"}
+{"mistake": "porblem", "label": "problem", "sentence": "[CLS] the [MASK] was nobody could understand it [SEP]"}
+{"mistake": "bisuits", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "riliu", "label": "really", "sentence": "[CLS] however , i [MASK] like the special refreshment [SEP]"}
+{"mistake": "buiscut", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "pleople", "label": "people", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take advantage of the special training schemes run by the government for unemployed young [MASK] [SEP]"}
+{"mistake": "bueful", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "tumm", "label": "stomach", "sentence": "[CLS] when i left , my [MASK] was full and i was happy and contented [SEP]"}
+{"mistake": "rember", "label": "remember", "sentence": "[CLS] i [MASK] her splendid purple curtains [SEP]"}
+{"mistake": "cuming", "label": "coming", "sentence": "[CLS] we will be [MASK] to leeds on sunday with our two sons [SEP]"}
+{"mistake": "gaurentee", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "foar", "label": "form", "sentence": "[CLS] what [MASK] are you in [SEP]"}
+{"mistake": "inaesible", "label": "inaccessible", "sentence": "[CLS] the window was [MASK] [SEP]"}
+{"mistake": "poam", "label": "poems", "sentence": "[CLS] her latest [MASK] had words like prunty , slimber , grondel , blomp [SEP]"}
+{"mistake": "th", "label": "to", "sentence": "[CLS] work the damage [MASK] their tissues is [SEP]"}
+{"mistake": "thie", "label": "there", "sentence": "[CLS] [MASK] was blue juice , cake and biscuits [SEP]"}
+{"mistake": "adzodiat", "label": "exaggerate", "sentence": "[CLS] do not [MASK] your claim [SEP]"}
+{"mistake": "opposet", "label": "opposite", "sentence": "[CLS] she lived in a magnificent house [MASK] the gallery [SEP]"}
+{"mistake": "beatefall", "label": "beautiful", "sentence": "[CLS] the flowers were [MASK] [SEP]"}
+{"mistake": "rethmente", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "excargarate", "label": "exaggerate", "sentence": "[CLS] do not [MASK] your claim [SEP]"}
+{"mistake": "perpul", "label": "purple", "sentence": "[CLS] i remember her splendid [MASK] curtains [SEP]"}
+{"mistake": "converlesence", "label": "convalescence", "sentence": "[CLS] the invalid's [MASK] proceeded smoothly [SEP]"}
+{"mistake": "customere", "label": "customary", "sentence": "[CLS] it is [MASK] to shake hands [SEP]"}
+{"mistake": "wishies", "label": "wishes", "sentence": "[CLS] best [MASK] [SEP]"}
+{"mistake": "hanee", "label": "any", "sentence": "[CLS] are there [MASK] left [SEP]"}
+{"mistake": "macnivesent", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "sahen", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "thop", "label": "chop", "sentence": "[CLS] the butcher will [MASK] the meat [SEP]"}
+{"mistake": "pertalu", "label": "particular", "sentence": "[CLS] there are also courses run to help you choose which kind of work suits you best and courses to train you for a [MASK] job at operator or semi-skilled level [SEP]"}
+{"mistake": "enfustick", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "jodceter", "label": "jobcentre", "sentence": "[CLS] enquire at your local [MASK] about the different schemes available [SEP]"}
+{"mistake": "miscallaneos", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "speshal", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "basen", "label": "based", "sentence": "[CLS] process of thought [MASK] on and modified [SEP]"}
+{"mistake": "iw", "label": "eye", "sentence": "[CLS] shut your [MASK] [SEP]"}
+{"mistake": "poitree", "label": "poetry", "sentence": "[CLS] she wrote [MASK] [SEP]"}
+{"mistake": "remen", "label": "remembered", "sentence": "[CLS] facts be easily [MASK] by our race [SEP]"}
+{"mistake": "sater", "label": "sit", "sentence": "[CLS] where will you [MASK] [SEP]"}
+{"mistake": "hoor", "label": "who", "sentence": "[CLS] [MASK] are you [SEP]"}
+{"mistake": "fitr", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "merterly", "label": "materially", "sentence": "[CLS] it is not [MASK] different [SEP]"}
+{"mistake": "accesible", "label": "accessible", "sentence": "[CLS] every point as [MASK] thus our concept [SEP]"}
+{"mistake": "umpoyed", "label": "unemployed", "sentence": "[CLS] if you are aged 16-19 and [MASK] you should take advantage of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "orgister", "label": "orchestra", "sentence": "[CLS] the musicians played in an [MASK] [SEP]"}
+{"mistake": "leuul", "label": "level", "sentence": "[CLS] there are also courses run to help you choose which kind of work suits you best and courses to train you for a particular job at operator or semi-skilled [MASK] [SEP]"}
+{"mistake": "recate", "label": "relate", "sentence": "[CLS] a person to [MASK] to such a [SEP]"}
+{"mistake": "shechel", "label": "special", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take advantage of the [MASK] training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "unabiguous", "label": "unambiguous", "sentence": "[CLS] necessarily the most [MASK] one to chose [SEP]"}
+{"mistake": "avtable", "label": "available", "sentence": "[CLS] enquire at your local jobcentre about the different schemes [MASK] [SEP]"}
+{"mistake": "offen", "label": "often", "sentence": "[CLS] i [MASK] visited my aunt [SEP]"}
+{"mistake": "individuu", "label": "individual", "sentence": "[CLS] nevertheless if a [MASK] can cleary cope [SEP]"}
+{"mistake": "signiger", "label": "signature", "sentence": "[CLS] he wrote his [MASK] [SEP]"}
+{"mistake": "inaxcesible", "label": "inaccessible", "sentence": "[CLS] the window was [MASK] [SEP]"}
+{"mistake": "orcutrer", "label": "orchestra", "sentence": "[CLS] the musicians played in an [MASK] [SEP]"}
+{"mistake": "rethrement", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "jub", "label": "job", "sentence": "[CLS] there are also courses run to help you choose which kind of work suits you best and courses to train you for a particular [MASK] at operator or semi-skilled level [SEP]"}
+{"mistake": "avilable", "label": "available", "sentence": "[CLS] enquire at your local jobcentre about the different schemes [MASK] [SEP]"}
+{"mistake": "curituns", "label": "curtains", "sentence": "[CLS] i remember her splendid purple [MASK] [SEP]"}
+{"mistake": "esaly", "label": "especially", "sentence": "[CLS] this is [MASK] for you [SEP]"}
+{"mistake": "rily", "label": "really", "sentence": "[CLS] however , i [MASK] like the special refreshment [SEP]"}
+{"mistake": "semh", "label": "schemes", "sentence": "[CLS] enquire at your local jobcentre about the different [MASK] available [SEP]"}
+{"mistake": "difinent", "label": "definite", "sentence": "[CLS] he made a [MASK] promise [SEP]"}
+{"mistake": "entreatic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "converlassents", "label": "convalescence", "sentence": "[CLS] the invalid's [MASK] proceeded smoothly [SEP]"}
+{"mistake": "freternally", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "mimen", "label": "women", "sentence": "[CLS] the [MASK] stood and waited [SEP]"}
+{"mistake": "formiler", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "apreysheate", "label": "appreciate", "sentence": "[CLS] i [MASK] your kindness [SEP]"}
+{"mistake": "frlanle", "label": "fraternally", "sentence": "[CLS] he wrote [MASK] to his friend [SEP]"}
+{"mistake": "trep", "label": "chop", "sentence": "[CLS] the butcher will [MASK] the meat [SEP]"}
+{"mistake": "convelensence", "label": "convalescence", "sentence": "[CLS] the invalid's [MASK] proceeded smoothly [SEP]"}
+{"mistake": "sacreligeuse", "label": "sacrilegious", "sentence": "[CLS] it is [MASK] to eat crisps in church [SEP]"}
+{"mistake": "forwoud", "label": "forward", "sentence": "[CLS] as you were not there last time we came , we are looking [MASK] to seeing you again [SEP]"}
+{"mistake": "sinchare", "label": "signature", "sentence": "[CLS] he wrote his [MASK] [SEP]"}
+{"mistake": "speasll", "label": "special", "sentence": "[CLS] you can choose to work for an employer on the spot to get experience of a particular type of job or you can work on a [MASK] project [SEP]"}
+{"mistake": "orbitting", "label": "orbiting", "sentence": "[CLS] levels of electrons [MASK] the nucleus and [SEP]"}
+{"mistake": "trealh", "label": "breathe", "sentence": "[CLS] fresh air is good to [MASK] [SEP]"}
+{"mistake": "ethuseastic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "poartey", "label": "poetry", "sentence": "[CLS] she wrote [MASK] [SEP]"}
+{"mistake": "contenr", "label": "contented", "sentence": "[CLS] when i left , my stomach was full and i was happy and [MASK] [SEP]"}
+{"mistake": "inactesible", "label": "inaccessible", "sentence": "[CLS] the window was [MASK] [SEP]"}
+{"mistake": "dminished", "label": "diminished", "sentence": "[CLS] the immediate demand [MASK] entertainment too would [SEP]"}
+{"mistake": "pene", "label": "poems", "sentence": "[CLS] her latest [MASK] had words like prunty , slimber , grondel , blomp [SEP]"}
+{"mistake": "dissappear", "label": "disappear", "sentence": "[CLS] the three to [MASK] of course there [SEP]"}
+{"mistake": "buiscuit", "label": "biscuits", "sentence": "[CLS] there was blue juice , cake and [MASK] [SEP]"}
+{"mistake": "poertre", "label": "poetry", "sentence": "[CLS] she wrote [MASK] [SEP]"}
+{"mistake": "miscelanious", "label": "miscellaneous", "sentence": "[CLS] this is a [MASK] collection of goods [SEP]"}
+{"mistake": "commisioner", "label": "commissioner", "sentence": "[CLS] dictated by the [MASK] not the poet [SEP]"}
+{"mistake": "lanscape", "label": "landscape", "sentence": "[CLS] return to a [MASK] dotted with windmills [SEP]"}
+{"mistake": "aparaturer", "label": "apparatus", "sentence": "[CLS] the [MASK] was used in an experiment [SEP]"}
+{"mistake": "lan", "label": "lost", "sentence": "[CLS] the dog was [MASK] [SEP]"}
+{"mistake": "varisous", "label": "various", "sentence": "[CLS] i was a bit late because i had been cooking myself half a pound of steak and [MASK] vegetables , including fried potatoes [SEP]"}
+{"mistake": "scienci", "label": "scientists", "sentence": "[CLS] [MASK] have become bickering [SEP]"}
+{"mistake": "imagenation", "label": "imagination", "sentence": "[CLS] [MASK] having a hunch [SEP]"}
+{"mistake": "hosre", "label": "house", "sentence": "[CLS] she lived in a magnificent [MASK] opposite the gallery [SEP]"}
+{"mistake": "operatar", "label": "operator", "sentence": "[CLS] there are also courses run to help you choose which kind of work suits you best and courses to train you for a particular job at [MASK] or semi-skilled level [SEP]"}
+{"mistake": "andsadit", "label": "understand", "sentence": "[CLS] the problem was nobody could [MASK] it [SEP]"}
+{"mistake": "provemie", "label": "problem", "sentence": "[CLS] the [MASK] was nobody could understand it [SEP]"}
+{"mistake": "understantit", "label": "understand", "sentence": "[CLS] the problem was nobody could [MASK] it [SEP]"}
+{"mistake": "fawm", "label": "form", "sentence": "[CLS] what [MASK] are you in [SEP]"}
+{"mistake": "fumilia", "label": "familiar", "sentence": "[CLS] his face was [MASK] [SEP]"}
+{"mistake": "thougt", "label": "thought", "sentence": "[CLS] applied science is [MASK] to give quicker [SEP]"}
+{"mistake": "succsessful", "label": "successful", "sentence": "[CLS] the boy was [MASK] [SEP]"}
+{"mistake": "wreely", "label": "really", "sentence": "[CLS] however , i [MASK] like the special refreshment [SEP]"}
+{"mistake": "fisitied", "label": "visited", "sentence": "[CLS] i often [MASK] my aunt [SEP]"}
+{"mistake": "slened", "label": "splendid", "sentence": "[CLS] i remember her [MASK] purple curtains [SEP]"}
+{"mistake": "pomems", "label": "poems", "sentence": "[CLS] her latest [MASK] had words like prunty , slimber , grondel , blomp [SEP]"}
+{"mistake": "espesely", "label": "especially", "sentence": "[CLS] this is [MASK] for you [SEP]"}
+{"mistake": "sacrilegous", "label": "sacrilegious", "sentence": "[CLS] it is [MASK] to eat crisps in church [SEP]"}
+{"mistake": "fird", "label": "fight", "sentence": "[CLS] the boy will [MASK] [SEP]"}
+{"mistake": "foreward", "label": "forward", "sentence": "[CLS] as you were not there last time we came , we are looking [MASK] to seeing you again [SEP]"}
+{"mistake": "ewler", "label": "equally", "sentence": "[CLS] they shared the sweets [MASK] [SEP]"}
+{"mistake": "scem", "label": "schemes", "sentence": "[CLS] enquire at your local jobcentre about the different [MASK] available [SEP]"}
+{"mistake": "adventagus", "label": "advantage", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take [MASK] of the special training schemes run by the government for unemployed young people [SEP]"}
+{"mistake": "aante", "label": "aunt", "sentence": "[CLS] i often visited my [MASK] [SEP]"}
+{"mistake": "pilpid", "label": "problem", "sentence": "[CLS] the [MASK] was nobody could understand it [SEP]"}
+{"mistake": "propably", "label": "probably", "sentence": "[CLS] answer will itself [MASK] assume some form [SEP]"}
+{"mistake": "equite", "label": "equipped", "sentence": "[CLS] the camp was well [MASK] [SEP]"}
+{"mistake": "mey", "label": "me", "sentence": "[CLS] please give it to [MASK] [SEP]"}
+{"mistake": "imphusiratic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "bon", "label": "done", "sentence": "[CLS] what have you [MASK] [SEP]"}
+{"mistake": "sancher", "label": "cemetery", "sentence": "[CLS] the [MASK] was cool and silent [SEP]"}
+{"mistake": "rement", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "abmeteb", "label": "admitted", "sentence": "[CLS] i am not used to dining on so much , it must be [MASK] , but i had received a bonus that week and i wanted to celebrate [SEP]"}
+{"mistake": "customen", "label": "customary", "sentence": "[CLS] it is [MASK] to shake hands [SEP]"}
+{"mistake": "freb", "label": "friend", "sentence": "[CLS] he is my [MASK] [SEP]"}
+{"mistake": "tecln", "label": "technologically", "sentence": "[CLS] by enforcing it [MASK] as all one [SEP]"}
+{"mistake": "sanet", "label": "sure", "sentence": "[CLS] i am [MASK] [SEP]"}
+{"mistake": "burious", "label": "various", "sentence": "[CLS] i was a bit late because i had been cooking myself half a pound of steak and [MASK] vegetables , including fried potatoes [SEP]"}
+{"mistake": "obselescence", "label": "obsolescence", "sentence": "[CLS] as built in [MASK] in commercial goods [SEP]"}
+{"mistake": "synbol", "label": "symbol", "sentence": "[CLS] is a classic [MASK] of the advance [SEP]"}
+{"mistake": "poptioes", "label": "potatoes", "sentence": "[CLS] i was a bit late because i had been cooking myself half a pound of steak and various vegetables , including fried [MASK] [SEP]"}
+{"mistake": "speshell", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "enacesiable", "label": "inaccessible", "sentence": "[CLS] the window was [MASK] [SEP]"}
+{"mistake": "perminat", "label": "permanent", "sentence": "[CLS] the road is [MASK] [SEP]"}
+{"mistake": "wull", "label": "will", "sentence": "[CLS] questions as i [MASK] state below how [SEP]"}
+{"mistake": "gaurrentee", "label": "guarantee", "sentence": "[CLS] the new car had a year's [MASK] [SEP]"}
+{"mistake": "opisite", "label": "opposite", "sentence": "[CLS] she lived in a magnificent house [MASK] the gallery [SEP]"}
+{"mistake": "reey", "label": "really", "sentence": "[CLS] however , i [MASK] like the special refreshment [SEP]"}
+{"mistake": "embaraced", "label": "embarrassed", "sentence": "[CLS] he was [MASK] by the excessive praise [SEP]"}
+{"mistake": "disappiont", "label": "disappoint", "sentence": "[CLS] i must not [MASK] you [SEP]"}
+{"mistake": "spledid", "label": "splendid", "sentence": "[CLS] i remember her [MASK] purple curtains [SEP]"}
+{"mistake": "frir", "label": "fire", "sentence": "[CLS] light the [MASK] [SEP]"}
+{"mistake": "eiy", "label": "eye", "sentence": "[CLS] shut your [MASK] [SEP]"}
+{"mistake": "mgnificent", "label": "magnificent", "sentence": "[CLS] she lived in a [MASK] house opposite the gallery [SEP]"}
+{"mistake": "refshment", "label": "refreshment", "sentence": "[CLS] however , i really like the special [MASK] [SEP]"}
+{"mistake": "enthuseasic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "succesful", "label": "successful", "sentence": "[CLS] this was not [MASK] the changes already [SEP]"}
+{"mistake": "reas", "label": "research", "sentence": "[CLS] use of scientific [MASK] is the indication [SEP]"}
+{"mistake": "espeacle", "label": "especially", "sentence": "[CLS] this is [MASK] for you [SEP]"}
+{"mistake": "eqwipt", "label": "equipped", "sentence": "[CLS] the camp was well [MASK] [SEP]"}
+{"mistake": "goce", "label": "juice", "sentence": "[CLS] there was blue [MASK] , cake and biscuits [SEP]"}
+{"mistake": "exsagrate", "label": "exaggerate", "sentence": "[CLS] do not [MASK] your claim [SEP]"}
+{"mistake": "imformation", "label": "information", "sentence": "[CLS] the wealth of [MASK] which is being [SEP]"}
+{"mistake": "tpep", "label": "type", "sentence": "[CLS] you can choose to work for an employer on the spot to get experience of a particular [MASK] of job or you can work on a special project [SEP]"}
+{"mistake": "poloticion", "label": "politician", "sentence": "[CLS] the [MASK] spoke with ease [SEP]"}
+{"mistake": "unser", "label": "answer", "sentence": "[CLS] will you please [MASK] my question [SEP]"}
+{"mistake": "egzagerate", "label": "exaggerate", "sentence": "[CLS] do not [MASK] your claim [SEP]"}
+{"mistake": "aprechate", "label": "appreciate", "sentence": "[CLS] i [MASK] your kindness [SEP]"}
+{"mistake": "expuren", "label": "experience", "sentence": "[CLS] you can choose to work for an employer on the spot to get [MASK] of a particular type of job or you can work on a special project [SEP]"}
+{"mistake": "bery", "label": "by", "sentence": "[CLS] if you are aged 16-19 and unemployed you should take advantage of the special training schemes run [MASK] the government for unemployed young people [SEP]"}
+{"mistake": "les", "label": "leeds", "sentence": "[CLS] we will be coming to [MASK] on sunday with our two sons [SEP]"}
+{"mistake": "infuseatic", "label": "enthusiastic", "sentence": "[CLS] he was very [MASK] [SEP]"}
+{"mistake": "custmtele", "label": "customary", "sentence": "[CLS] it is [MASK] to shake hands [SEP]"}
+{"mistake": "stume", "label": "stomach", "sentence": "[CLS] when i left , my [MASK] was full and i was happy and contented [SEP]"}
+{"mistake": "wondeful", "label": "wonderful", "sentence": "[CLS] world perhaps most [MASK] of all it [SEP]"}
+{"mistake": "speal", "label": "special", "sentence": "[CLS] however , i really like the [MASK] refreshment [SEP]"}
+{"mistake": "serficiant", "label": "sufficient", "sentence": "[CLS] the food is [MASK] [SEP]"}
+{"mistake": "sucksesfull", "label": "successful", "sentence": "[CLS] the boy was [MASK] [SEP]"}

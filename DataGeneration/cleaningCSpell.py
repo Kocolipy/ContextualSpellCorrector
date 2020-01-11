@@ -3,9 +3,10 @@ import pathlib
 import re
 import json
 
-source = pathlib.Path(r"C:\Users\Nicholas\Downloads\misspelling\CSpell Training\GoldStd-NonWord")
-corrected = pathlib.Path(r"C:\Users\Nicholas\Downloads\misspelling\CSpell Training\GoldStd-RealWord")
-outfile = pathlib.Path(r"C:\Users\Nicholas\Downloads\training.txt")
+source = pathlib.Path(r"path\to\CSpell Training\GoldStd-NonWord")
+corrected = pathlib.Path(r"path\to\CSpell Training\GoldStd-RealWord")
+dir = pathlib.Path(os.getcwd())
+outfile = pathlib.Path(dir / "CSpell.txt")
 
 def cleanData(fp):
     clean = []

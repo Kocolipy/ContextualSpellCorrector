@@ -4,9 +4,10 @@ from pyxdameraulevenshtein import damerau_levenshtein_distance, normalized_damer
 import json
 import pathlib
 
+# The test set has been filtered by ASpell (removing all mistakes which ASpell fail to recognise
 # Organise test set into a format more accessible for Grammarly testing
 
-dir = pathlib.Path(r"C:\Users\Nicholas\Downloads\MLNLP\Dataset\fasttextvocab")
+dir = pathlib.Path(os.getcwd()).parent / "Dataset" / "fasttextvocab"
 filename = "test_aspell.txt"
 out_dir = dir / "grammarly"
 out_dir.mkdir(exist_ok=True)

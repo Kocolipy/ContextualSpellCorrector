@@ -2,6 +2,8 @@ import subprocess
 import json
 import pathlib
 import utils
+import os
+
 
 def getASpellPredictions(test_file, bad_speller=False):
     samples = []
@@ -32,11 +34,18 @@ def getASpellPredictions(test_file, bad_speller=False):
     return samples
 
 
-test_file = pathlib.PureWindowsPath(r"\mnt\c\Users\Nicholas\Downloads\MLNLP\Dataset\fasttextvocab\test_AG.txt").as_posix()
+cwd = pathlib.Path(os.getcwd())
+data_path = cwd / "Dataset" / "fasttextvocab"
+test_file = (data_path / "test_AG.txt").as_posix()
 threshold = 20
 
 # samples = getASpellPredictions(test_file, bad_speller=False)
 samples = getASpellPredictions(test_file, bad_speller=True)
 
 success, counts = utils.accuracy(samples, threshold)
-print(success, counts)
+print("Successful predictions")
+for k, v in sorted(success.items()):
+    print("Distance {0}:".format(k), v)
+print("Total number")
+for k, v in sorted(counts.items()):
+    print("Distance {0}:".format(k), v)

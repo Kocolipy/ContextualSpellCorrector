@@ -4,9 +4,10 @@ import re
 import json
 import numpy
 
-source = pathlib.Path(r"C:\Users\Nicholas\Downloads\misspelling\PETERS1DAT.643")
-senten = pathlib.Path(r"C:\Users\Nicholas\Downloads\misspelling\PETERSEN.txt")
-outfile = pathlib.Path(r"C:\Users\Nicholas\Downloads\Training\PETERS1.txt")
+source = pathlib.Path(r"path\to\PETERS1DAT.643")
+senten = pathlib.Path(r"path\to\PETERSEN.txt")
+dir = pathlib.Path(os.getcwd())
+outfile = pathlib.Path(dir / "PETERS1.txt")
 
 def forTraining(sentence, mistake, mistake_index):
     data = {"mistake": mistake.lower(), "label": sentence[mistake_index].lower()}

@@ -1,6 +1,7 @@
 import torch
 
 
+### Tried with less layers, results were not as good
 class FFNN(torch.nn.Module):
     def __init__(self, hidden_size, p=0.5):
         super(FFNN, self).__init__()
@@ -16,7 +17,7 @@ class FFNN(torch.nn.Module):
         x = self.fc2(x)
         return x
 
-
+### Tried with batch norm layers as well, results were not as good
 class FFNNTwo(torch.nn.Module):
     def __init__(self, hidden_size, p=0.5):
         super(FFNNTwo, self).__init__()
@@ -35,6 +36,7 @@ class FFNNTwo(torch.nn.Module):
         return x
 
 
+### Tried with more layers, results were not as good
 class FFNNThree(torch.nn.Module):
     def __init__(self, hidden_size, p=0.5):
         super(FFNNThree, self).__init__()

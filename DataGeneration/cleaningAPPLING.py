@@ -3,8 +3,9 @@ import pathlib
 import re
 import json
 
-source = pathlib.Path(r"C:\Users\Nicholas\Downloads\MLNLP\misspelling\APPLING1DAT.643")
-outfile = pathlib.Path(r"C:\Users\Nicholas\Downloads\MLNLP\appling.txt")
+source = pathlib.Path(r"path\to\APPLING1DAT.643")
+dir = pathlib.Path(os.getcwd())
+outfile = pathlib.Path(dir / "appling.txt")
 
 def forTraining(sentence, mistake, mistake_index, label):
     data = {"mistake": mistake.lower(), "label": label.lower()}

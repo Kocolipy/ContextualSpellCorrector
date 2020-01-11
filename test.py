@@ -16,8 +16,8 @@ if __name__ == '__main__':
     device = torch.device("cuda:0") if torch.cuda.is_available() else torch.device("cpu")
 
     print("Loading Checkpoint")
-    out = pathlib.Path(r"D:\MLNLP\PCA")
-    ckpt_path = out / "ckpt_0.00001_800_500_0" / "1500"
+    cwd = pathlib.Path(os.getcwd()) / "Dataset" / "fasttextvocab"
+    ckpt_path = cwd / "0" / "ckpt" / "1500"
 
     checkpoint = torch.load(str(ckpt_path))
     hyperparams = {"hidden_size": checkpoint["hidden_size"],
@@ -29,14 +29,14 @@ if __name__ == '__main__':
     ff_model.eval()
     ff_model.to(device)
 
-    test_dir = pathlib.Path(r"C:\Users\Nicholas\Downloads\MLNLP\Dataset\fasttextvocab")
-
     # Name of results which would be saved
-    results_file = test_dir / "results.txt"
+    results_file = cwd / "results_full.txt"
+    # results_file = cwd / "results_AG.txt"
 
     # Load Test Data
-    test_data = test_dir / "test_index.txt"
-    test_encodings = test_dir / str(current_fold) / "encodings"
+    test_data = cwd / "test_index.txt"
+    # test_data = cwd / "test_AG_index.txt"
+    test_encodings = cwd / str(current_fold) / "encodings"
     val_data = EmbeddingDataset.EmbeddingDataset(test_encodings, test_data)
     dataloader = DataLoader(val_data, batch_size=hyperparams["batch_size"],
                             shuffle=True, num_workers=hyperparams["batch_size"])
@@ -88,4 +88,11 @@ if __name__ == '__main__':
 
         for t in [1, 3, 5, 10]:
             success, counts = utils.accuracy(samples, t)
-            print("Top {0} predictions".format(t), success, counts)
+            print("Top {0} predictions".format(t))
+            print("------------------------------------")
+            print("Successful predictions")
+            for k, v in sorted(success.items()):
+                print("Distance {0}:".format(k), v)
+            print("Total number")
+            for k, v in sorted(counts.items()):
+                print("Distance {0}:".format(k), v)

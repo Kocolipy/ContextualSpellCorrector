@@ -3,7 +3,6 @@ import pathlib
 import json
 import utils
 
-
 def removeDuplicates(in_file, out_file):
     file = open(out_file, "w+")
 
@@ -61,7 +60,7 @@ source = pathlib.Path(r"C:\Users\Nicholas\Downloads\MLNLP\Dataset")
 in_file = source/"collated.txt"
 
 if not os.path.exists(source/"nodup.txt"):
-    removeDuplicates(in_file, source/"nodup.txt")
+    removeDuplicates(in_file, source/"noduplicates.txt")
 
 if not os.path.exists(source/"fasttextvocab.txt"):
     removeNonFastTextLabels(in_file, source/"fasttextvocab.txt")

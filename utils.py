@@ -1,10 +1,14 @@
+import os
+import pathlib
+
+cwd = pathlib.Path(os.getcwd())
 
 def loadFastText():
     import gensim
 
     ### Load FastText model
     print("Loading FastText ...")
-    ft_modelpath = r"C:\Users\Nicholas\Downloads\MLNLP\cc.en.300.bin"
+    ft_modelpath = str(cwd / "cc.en.300.bin")
     # Load vectors directly from the file
     return gensim.models.fasttext.load_facebook_model(ft_modelpath)
 
@@ -18,17 +22,6 @@ def loadBERT():
     model = BertForMaskedLM.from_pretrained(bert_modelpath)
     model.eval()
     return tokenizer, model
-
-
-def loadBERTMatrix():
-    import json
-    import torch
-
-    print("Loading BERT matrix...")
-    bert_matrix_path = r"D:\MLNLP\Bert_FastText.mat"
-    with open(bert_matrix_path, "r") as f:
-        bert_matrix = torch.tensor(json.load(f))
-    return bert_matrix
 
 
 def accuracy(samples, threshold):

@@ -1,7 +1,9 @@
 import subprocess
 import json
 import pathlib
+import os
 import utils
+
 
 def combinePredictions(results_file, bad_speller=False):
     samples = []
@@ -38,11 +40,16 @@ def combinePredictions(results_file, bad_speller=False):
     return samples
 
 
-result_file = pathlib.PureWindowsPath(r"\mnt\c\Users\Nicholas\Downloads\MLNLP\Dataset\fasttextvocab\results_AG.txt").as_posix()
-test_file = pathlib.PureWindowsPath(r"\mnt\c\Users\Nicholas\Downloads\MLNLP\Dataset\fasttextvocab\test_AG.txt").as_posix()
+cwd = pathlib.Path(os.getcwd())
+data_path = cwd / "Dataset" / "fasttextvocab"
+result_file = (data_path / "results_AG.txt").as_posix()
 
-# samples = getASpellPredictions(test_file, bad_speller=False)
-samples = combinePredictions(result_file, bad_speller=True)
+samples = combinePredictions(result_file, bad_speller=False)
 
 success, counts = utils.accuracy(samples, 3)
-print(success, counts)
+print("Successful predictions")
+for k, v in sorted(success.items()):
+    print("Distance {0}:".format(k), v)
+print("Total number")
+for k, v in sorted(counts.items()):
+    print("Distance {0}:".format(k), v)

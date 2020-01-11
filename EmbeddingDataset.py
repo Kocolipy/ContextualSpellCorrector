@@ -3,7 +3,6 @@ import torchvision
 import torch
 import json
 
-
 class EmbeddingDataset(Dataset):
     def __init__(self, encoding_source, indices):
         self.encodings = encoding_source
@@ -27,6 +26,7 @@ class EmbeddingDataset(Dataset):
         return data, label, line
 
 
+### Tried with normalised data, results were not as good
 class EmbeddingDatasetWithNorm(Dataset):
     def __init__(self, encoding_source, indices, norm):
         self.encodings = encoding_source

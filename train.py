@@ -1,18 +1,12 @@
 import argparse
 import torch
 import pathlib
-import os
-import gensim
 import FFNN
 import json
 import EmbeddingDataset
 from torch.utils.data import DataLoader
+import os
 import utils
-import sys
-
-# OPTIONAL: if you want to have more information on what's happening, activate the logger as follows
-# import logging
-# logging.basicConfig(level=logging.INFO)
 
 if __name__ == '__main__':
     torch.multiprocessing.freeze_support()
@@ -47,8 +41,7 @@ if __name__ == '__main__':
     ckpt = args.ckpt
 
     ### Data source
-    # cwd = pathlib.Path(os.getcwd())
-    cwd = pathlib.Path(r"C:\Users\Nicholas\Downloads\MLNLP")
+    cwd = pathlib.Path(os.getcwd())
     data_path = cwd / "Dataset"/ "fasttextvocab"
     data_encodings = data_path / str(current_fold) / "encodings"
     dct_source = data_path / str(current_fold) / "train.dct"
@@ -63,15 +56,14 @@ if __name__ == '__main__':
                             shuffle=True, num_workers=hyperparams["batch_size"])
     print("Data loaded")
 
-    save_path = cwd
-    save_path = pathlib.Path(r"D:\MLNLP\PCA")
+    save_path = data_path / str(current_fold)
 
     # Location to save checkpoints
-    ckpt_path = save_path / "ckpt_{0}_{1}_{2}".format(hyperparams["hidden_size"][0],hyperparams["hidden_size"][1], current_fold)
+    ckpt_path = save_path / "ckpt"
     ckpt_path.mkdir(exist_ok=True)
 
     # Location to save validation results
-    val_path = save_path / "val_{0}_{1}_{2}".format(hyperparams["hidden_size"][0],hyperparams["hidden_size"][1],current_fold)
+    val_path = save_path / "val"
     val_path.mkdir(exist_ok=True)
 
     ff_model = FFNN.FFNNTwo(hyperparams["hidden_size"], hyperparams["drop_out"])
@@ -82,7 +74,7 @@ if __name__ == '__main__':
     # specify loss function
     criterion = torch.nn.L1Loss(reduction="sum")
 
-    optimizer = torch.optim.Adam(ff_model.parameters(), lr=0.0001, weight_decay=0.01)
+    optimizer = torch.optim.Adam(ff_model.parameters(), lr=0.00001, weight_decay=0.01)
 
     # if checkpoint is stated, load from checkpoint
     if ckpt:
@@ -126,10 +118,6 @@ if __name__ == '__main__':
             # update running training loss
             train_loss += loss.item()
 
-            # count += hyperparams["batch_size"]
-            # if count % (hyperparams["batch_size"]*100) == 0:
-            #     print(count, "files processed.")
-
         # print training statistics
         # calculate average loss over an epoch
         train_loss = train_loss / len(train_data)
@@ -168,10 +156,6 @@ if __name__ == '__main__':
 
             line["prediction"] = predictions
             results.append(line)
-
-            # count += hyperparams["batch_size"]
-            # if count % (hyperparams["batch_size"]*50) == 0:
-            #     print(count, "files processed.")
 
         # print validation statistics
         total_loss = val_loss / len(val_data)

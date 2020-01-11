@@ -1,0 +1,234 @@
+@article{fourcontext,
+author = {Flor, Michael},
+year = {2012},
+month = {12},
+pages = {61-99},
+title = {Four types of context for automatic spelling correction},
+volume = {53},
+journal = {Traitement Automatique des Langues (TAL)}
+}
+
+@article{DataSpelling,
+author = {Al-Jarf, Reima},
+year = {2010},
+month = {08},
+pages = {6-15},
+title = {Spelling Error Corpora in EFL},
+volume = {7},
+journal = {Sino-US English Teaching}
+}
+
+@misc{bert,
+    title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
+    author={Jacob Devlin and Ming-Wei Chang and Kenton Lee and Kristina Toutanova},
+    year={2018},
+    eprint={1810.04805},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+
+@article{typesOfErrorDet,
+ author = {Kukich, Karen},
+ title = {Techniques for Automatically Correcting Words in Text},
+ journal = {ACM Comput. Surv.},
+ issue_date = {Dec. 1992},
+ volume = {24},
+ number = {4},
+ month = dec,
+ year = {1992},
+ issn = {0360-0300},
+ pages = {377--439},
+ numpages = {63},
+ url = {http://doi.acm.org/10.1145/146370.146380},
+ doi = {10.1145/146370.146380},
+ acmid = {146380},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {n-gram analysis, Optical Character Recognition (OCR), context-dependent spelling correction, grammar checking, natural-language-processing models, neural net classifiers, spell checking, spelling error detection, spelling error patterns, statistical-language models, word recognition and correction},
+} 
+
+@article{editdistance,
+ author = {Damerau, Fred J.},
+ title = {A Technique for Computer Detection and Correction of Spelling Errors},
+ journal = {Commun. ACM},
+ issue_date = {March 1964},
+ volume = {7},
+ number = {3},
+ month = mar,
+ year = {1964},
+ issn = {0001-0782},
+ pages = {171--176},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/363958.363994},
+ doi = {10.1145/363958.363994},
+ acmid = {363994},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@inproceedings{subwordembedding,
+    title = "Effective search space reduction for spell correction using character neural embeddings",
+    author = "Pande, Harshit",
+    booktitle = "Proceedings of the 15th Conference of the {E}uropean Chapter of the Association for Computational Linguistics: Volume 2, Short Papers",
+    month = apr,
+    year = "2017",
+    address = "Valencia, Spain",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/E17-2027",
+    pages = "170--174",
+    abstract = "We present a novel, unsupervised, and distance measure agnostic method for search space reduction in spell correction using neural character embeddings. The embeddings are learned by skip-gram word2vec training on sequences generated from dictionary words in a phonetic information-retentive manner. We report a very high performance in terms of both success rates and reduction of search space on the Birkbeck spelling error corpus. To the best of our knowledge, this is the first application of word2vec to spell correction.",
+}
+
+@article{googleweb,
+author = {Bassil, Youssef and Alwani, Mohammad},
+year = {2012},
+month = {04},
+pages = {37-48},
+title = {Context-sensitive Spelling Correction Using Google Web 1T 5-Gram Information},
+volume = {5},
+journal = {Computer and Information Science},
+doi = {10.5539/cis.v5n3p37}
+}
+
+@inproceedings{sentenceembedding,
+    title = "Unsupervised Context-Sensitive Spelling Correction of Clinical Free-Text with Word and Character N-Gram Embeddings",
+    author = "Fivez, Pieter  and
+      {\v{S}}uster, Simon  and
+      Daelemans, Walter",
+    booktitle = "{B}io{NLP} 2017",
+    month = aug,
+    year = "2017",
+    address = "Vancouver, Canada,",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W17-2317",
+    doi = "10.18653/v1/W17-2317",
+    pages = "143--148",
+    abstract = "We present an unsupervised context-sensitive spelling correction method for clinical free-text that uses word and character n-gram embeddings. Our method generates misspelling replacement candidates and ranks them according to their semantic fit, by calculating a weighted cosine similarity between the vectorized representation of a candidate and the misspelling context. We greatly outperform two baseline off-the-shelf spelling correction tools on a manually annotated MIMIC-III test set, and counter the frequency bias of an optimized noisy channel model, showing that neural embeddings can be successfully exploited to include context-awareness in a spelling correction model.",
+}
+
+@inproceedings{maxembedding,
+  title={Clinical Abbreviation Disambiguation Using Neural Word Embeddings},
+  author={Yonghui Wu and Jun Xu and Yaoyun Zhang and Hua Xu},
+  booktitle={BioNLP@IJCNLP},
+  year={2015}
+}
+
+@online{Aspell,
+  author = {Kevin Atkinson},
+  title = {Aspell Spell Checker},
+  year = 2019,
+  url = {https://aspell.net/},
+  urldate = {2019-10-01}
+}
+@online{Grammarly,
+  author = {Grammarly},
+  title = {Grammarly Contextual Spell Checker},
+  year = 2019,
+  url = {https://grammarly.com/},
+  urldate = {2019-12-29}
+}
+
+@article{CSpell,
+    author = {Lu, Chris J and Aronson, Alan R and Shooshan, Sonya E and Demner-Fushman, Dina},
+    title = "{Spell checker for consumer language (CSpell)}",
+    journal = {Journal of the American Medical Informatics Association},
+    volume = {26},
+    number = {3},
+    pages = {211-218},
+    year = {2019},
+    month = {01},
+    abstract = "{Automated understanding of consumer health inquiries might be hindered by misspellings. To detect and correct various types of spelling errors in consumer health questions, we developed a distributable spell-checking tool, CSpell, that handles nonword errors, real-word errors, word boundary infractions, punctuation errors, and combinations of the above.We developed a novel approach of using dual embedding within Word2vec for context-dependent corrections. This technique was used in combination with dictionary-based corrections in a 2-stage ranking system. We also developed various splitters and handlers to correct word boundary infractions. All correction approaches are integrated to handle errors in consumer health questions.Our approach achieves an F1 score of 80.93\\% and 69.17\\% for spelling error detection and correction, respectively.The dual-embedding model shows a significant improvement (9.13\\%) in F1 score compared with the general practice of using cosine similarity with word vectors in Word2vec for context ranking. Our 2-stage ranking system shows a 4.94\\% improvement in F1 score compared with the best 1-stage ranking system.CSpell improves over the state of the art and provides near real-time automatic misspelling detection and correction in consumer health questions. The software and the CSpell test set are available at https://umlslex.nlm.nih.gov/cSpell.}",
+    issn = {1527-974X},
+    doi = {10.1093/jamia/ocy171},
+    url = {https://doi.org/10.1093/jamia/ocy171},
+    eprint = {http://oup.prod.sis.lan/jamia/article-pdf/26/3/211/27642469/ocy171.pdf},
+}
+
+@article{fastText,
+  title={Enriching Word Vectors with Subword Information},
+  author={Bojanowski, Piotr and Grave, Edouard and Joulin, Armand and Mikolov, Tomas},
+  journal={arXiv preprint arXiv:1607.04606},
+  year={2016}
+}
+
+@inproceedings{pretrainFTmodels,
+  title={Learning Word Vectors for 157 Languages},
+  author={Grave, Edouard and Bojanowski, Piotr and Gupta, Prakhar and Joulin, Armand and Mikolov, Tomas},
+  booktitle={Proceedings of the International Conference on Language Resources and Evaluation (LREC 2018)},
+  year={2018}
+}
+@misc{word2vec,
+    title={Efficient Estimation of Word Representations in Vector Space},
+    author={Tomas Mikolov and Kai Chen and Greg Corrado and Jeffrey Dean},
+    year={2013},
+    eprint={1301.3781},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+
+@article{metaphone,
+  title={Hanging on the metaphone},
+  author={Philips, Lawrence},
+  journal={Computer Language},
+  volume={7},
+  number={12},
+  pages={39--43},
+  year={1990}
+}
+
+@article{sentingram,
+title = "Senti-N-Gram: An n-gram lexicon for sentiment analysis",
+journal = "Expert Systems with Applications",
+volume = "103",
+pages = "92 - 105",
+year = "2018",
+issn = "0957-4174",
+doi = "https://doi.org/10.1016/j.eswa.2018.03.004",
+url = "http://www.sciencedirect.com/science/article/pii/S095741741830143X",
+author = "Atanu Dey and Mamata Jenamani and Jitesh J. Thakkar",
+keywords = ", -grams, Lexicon, Sentiment analysis, Automatic sentiment score calculation, Automatic -gram construction",
+abstract = "Sentiment analysis helps evaluating the performance of products or services from user generated contents. Lexicon based sentiment analysis approaches are preferred over learning based ones when training data is not adequate. Existing lexicons contain only unigrams along with their sentiment scores. It is observed that sentiment n-grams formed by combining unigrams with intensifiers or negations show improved results. Such sentiment n-gram lexicons are not publicly available. This paper presents a methodology to create such a lexicon called Senti-N-Gram. Proposed rule-based approach extracts the n-grams sentiment scores from a random corpus containing product reviews and corresponding numeric rating in five-point scale. The scores from this automated procedure are compared with that of the human annotators using t-test and found to be statistically equivalent. The paper also proposes a sentiment classification methodology by using a ratio based approach based on counts of positive and negative sentences of a document. When used Senti-N-Gram lexicon, proposed method outperforms well-known unigram-lexicon based approach using VADER and an n-gram sentiment analysis approach SO-CAL."
+}
+
+@misc{nnsenti,
+    title={Bag of Tricks for Efficient Text Classification},
+    author={Armand Joulin and Edouard Grave and Piotr Bojanowski and Tomas Mikolov},
+    year={2016},
+    eprint={1607.01759},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+
+@inproceedings{reranking,
+    title = "Discriminative Reranking for Spelling Correction",
+    author = "Zhang, Yang  and
+      He, Pilian  and
+      Xiang, Wei  and
+      Li, Mu",
+    booktitle = "Proceedings of the 20th Pacific Asia Conference on Language, Information and Computation",
+    month = nov,
+    year = "2006",
+    address = "Huazhong Normal University, Wuhan, China",
+    publisher = "Tsinghua University Press",
+    url = "https://www.aclweb.org/anthology/Y06-1009",
+    doi = "http://hdl.handle.net/2065/29070",
+    pages = "64--71",
+}
+
+@misc{adam,
+    title={Adam: A Method for Stochastic Optimization},
+    author={Diederik P. Kingma and Jimmy Ba},
+    year={2014},
+    eprint={1412.6980},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+
+@misc{weights,
+    title={Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification},
+    author={Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
+    year={2015},
+    eprint={1502.01852},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
