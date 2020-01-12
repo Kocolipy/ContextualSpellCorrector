@@ -1,3 +1,5 @@
+Download the fastText model at (https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz)
+
 DataGeneration contains the scripts for cleaning the various misspelling corpora. It converts them into a suitable format for the training.
 - datasetFilter.py contains functions to clean the collated file, removing duplicates and samples which labels are not in the fastText vocabulary.
 - EditDistanceAnalysis.py computes the edit distance distribution of the dataset.
